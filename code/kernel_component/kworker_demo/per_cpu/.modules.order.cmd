@@ -1,0 +1,1 @@
+savedcmd_/home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/kworker_demo/per_cpu/modules.order := {   echo /home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/kworker_demo/per_cpu/per_cpu_queue_demo.o; :; } > /home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/kworker_demo/per_cpu/modules.order

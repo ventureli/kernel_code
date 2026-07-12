@@ -1,0 +1,1 @@
+cmd_/media/psf/kernel_learn/code/hello_world/Module.symvers := sed 's/\.ko$$/\.o/' /media/psf/kernel_learn/code/hello_world/modules.order | scripts/mod/modpost -m -a  -o /media/psf/kernel_learn/code/hello_world/Module.symvers -e -i Module.symvers   -T -

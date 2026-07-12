@@ -1,0 +1,1 @@
+savedcmd_/home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/kworker_demo/with_data/modules.order := {   echo /home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/kworker_demo/with_data/work_struct_with_data.o; :; } > /home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/kworker_demo/with_data/modules.order

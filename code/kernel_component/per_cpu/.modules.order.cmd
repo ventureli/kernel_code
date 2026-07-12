@@ -1,0 +1,1 @@
+savedcmd_/home/xuan/Desktop/share_dir/article/kernel/code/per_cpu/modules.order := {   echo /home/xuan/Desktop/share_dir/article/kernel/code/per_cpu/percputest.o; :; } > /home/xuan/Desktop/share_dir/article/kernel/code/per_cpu/modules.order

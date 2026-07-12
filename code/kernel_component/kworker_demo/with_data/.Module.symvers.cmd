@@ -1,0 +1,1 @@
+savedcmd_/home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/kworker_demo/with_data/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/kworker_demo/with_data/Module.symvers -T /home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/kworker_demo/with_data/modules.order -i Module.symvers -e 

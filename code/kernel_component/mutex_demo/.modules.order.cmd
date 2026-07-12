@@ -1,0 +1,1 @@
+savedcmd_/home/xuan/Desktop/share_dir/article/kernel/code/mutex_demo/modules.order := {   echo /home/xuan/Desktop/share_dir/article/kernel/code/mutex_demo/mutex_demo.o; :; } > /home/xuan/Desktop/share_dir/article/kernel/code/mutex_demo/modules.order

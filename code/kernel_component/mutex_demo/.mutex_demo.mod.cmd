@@ -1,0 +1,1 @@
+savedcmd_/home/xuan/Desktop/share_dir/article/kernel/code/mutex_demo/mutex_demo.mod := printf '%s\n'   mutex_demo.o | awk '!x[$$0]++ { print("/home/xuan/Desktop/share_dir/article/kernel/code/mutex_demo/"$$0) }' > /home/xuan/Desktop/share_dir/article/kernel/code/mutex_demo/mutex_demo.mod

@@ -1,0 +1,19 @@
+# IDE & Editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Kernel module build artifacts
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.o
+Module.symvers
+modules.order
