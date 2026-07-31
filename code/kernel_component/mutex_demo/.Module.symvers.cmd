@@ -1,1 +1,0 @@
-savedcmd_/home/xuan/Desktop/share_dir/article/kernel/code/mutex_demo/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/xuan/Desktop/share_dir/article/kernel/code/mutex_demo/Module.symvers -T /home/xuan/Desktop/share_dir/article/kernel/code/mutex_demo/modules.order -i Module.symvers -e 

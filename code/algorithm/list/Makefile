@@ -14,7 +14,7 @@ OBJS := $(patsubst $(SRC_DIR)/%.c, $(OBJ_DIR)/%.o, $(SRCS))
 
 .PHONY: all info clean
 
-#for crossfile 
+#for crossfile wsl
 KDIR ?= /home/dell/code/6.0/out/rk3568/kernel/linux-5.10
 CROSS_COMPILE ?= /home/dell/code/6.0/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-
 CLANG_CC ?= /home/dell/code/6.0/prebuilts/clang/ohos/linux-x86_64/llvm/bin/aarch64-unknown-linux-ohos-clang

@@ -1,1 +1,0 @@
-savedcmd_/home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/rcu/simple_demo/modules.order := {   echo /home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/rcu/simple_demo/rcu_learn.o; :; } > /home/xuan/Desktop/share_dir/article/kernel/code/kernel_component/rcu/simple_demo/modules.order

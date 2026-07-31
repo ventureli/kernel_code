@@ -1,1 +1,0 @@
-savedcmd_/home/xuan/Desktop/share_dir/article/kernel/code/per_cpu/percputest.mod := printf '%s\n'   percputest.o | awk '!x[$$0]++ { print("/home/xuan/Desktop/share_dir/article/kernel/code/per_cpu/"$$0) }' > /home/xuan/Desktop/share_dir/article/kernel/code/per_cpu/percputest.mod

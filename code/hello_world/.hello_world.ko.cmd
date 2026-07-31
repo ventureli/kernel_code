@@ -1,1 +1,0 @@
-cmd_/media/psf/kernel_learn/code/hello_world/hello_world.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /media/psf/kernel_learn/code/hello_world/hello_world.ko /media/psf/kernel_learn/code/hello_world/hello_world.o /media/psf/kernel_learn/code/hello_world/hello_world.mod.o;  true
